@@ -3,7 +3,10 @@
 ![Mat-Ro Promo Image](https://github.com/Jimmytheconman/Mat-Ro/blob/master/Readme_Media/Mat-Ro-promo.png "Mat-Ro")
 
 Mat-Ro is an icon pack inspired by the design ethos of Microsoft's 'Metro' design,
-and Google's 'Material' design - the name being a portmanteu of the two. 
+and Google's 'Material' design - the name being a portmanteu of the two. There are
+currently 130+ icons included, from file types, folders, system files and various
+applications. If you find that there's some missing you would like to see, feel
+free to leave requests!
 
 
 ### About Mat-Ro
